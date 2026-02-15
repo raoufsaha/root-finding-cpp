@@ -1,0 +1,8 @@
+# Compiled binaries
+*.o
+*.exe
+root_finder
+test_bisection
+test_newton
+test_parser
+compare_methods
